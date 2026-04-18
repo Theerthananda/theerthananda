@@ -25,7 +25,7 @@ I love turning ideas into practical applications and constantly improving my cod
 ## 💻 Skills
 
 <p align="left">
-<a href="#"><img src="https://skillicons.dev/icons?i=c,java,js,nodejs,express,mysql,flutter" /></a>
+  <img src="https://skillicons.dev/icons?i=c,java,js,nodejs,express,mysql,flutter" />
 </p>
 
 ---
@@ -33,26 +33,26 @@ I love turning ideas into practical applications and constantly improving my cod
 ## 🌐 Socials
 
 <p align="left">
-<a href="https://github.com/Theerthananda" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-</a>
-<a href="https://www.linkedin.com/in/theerthananda" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-</a>
+  <a href="https://github.com/Theerthananda" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/theerthananda" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/Theerthananda">
-<img src="https://github-readme-stats.vercel.app/api?username=Theerthananda&show_icons=true&theme=radical" />
-</a>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Theerthananda&show_icons=true&theme=radical" />
+</p>
 
-<a href="https://github.com/Theerthananda">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Theerthananda&theme=radical" />
-</a>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theerthananda&theme=radical" />
+</p>
 
-<a href="https://github.com/Theerthananda">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theerthananda&layout=compact&theme=radical" />
-</a>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theerthananda&layout=compact&theme=radical" />
+</p>
