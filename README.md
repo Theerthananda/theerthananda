@@ -1,50 +1,53 @@
+<!-- Typing Animation -->
 <h1 align="center">Hi 👋, I'm THEERTHANANDA</h1>
+<h3 align="center">Computer Science Student | Backend Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F70000&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Backend+Enthusiast;Flutter+%7C+Node.js+Developer;DSA+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;Node.js+Backend+Developer;DSA+Learner;Building+Real+World+Apps&center=true&width=500&height=50">
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Student  
-- 💻 Passionate about building real-world applications  
-- 🔧 Currently developing a **Safety App** using Flutter, Node.js & MySQL  
-- 📚 Learning Data Structures & Algorithms  
-- 🎯 Goal: Become a Full Stack Developer  
+- 🌍 Based in India  
+- 🖥️ Portfolio: [theerthananda.github.io](http://theerthananda.github.io)  
+- ✉️ Email: theerthanandagowda@gmail.com  
+- 🧠 Learning: Data Structures & Algorithms, JavaScript, Node.js  
+- 👥 Open to collaborate on real-world & open-source projects  
 
 ---
 
-## 💡 Current Project
+## 🔥 Current Project
 
 ### 🛡️ Safety App
-A mobile application focused on improving user safety and emergency response.
+A mobile application built using **Flutter, Node.js, and MySQL**  
+Focused on improving **user safety and emergency response**
 
-**Features (you can update later):**
+👉 Features (you can update later):
+- 📍 Live location tracking  
 - 🚨 Emergency alert system  
-- 📍 Real-time location sharing  
-- 📞 Quick contact system  
+- 📱 Real-time communication  
 
 ---
 
-## 🌐 Connect with me
+## 💻 Skills
 
-<p align="left">
-  <a href="https://github.com/Theerthananda">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/theerthananda">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,js,nodejs,express,mysql,flutter" />
 </p>
 
 ---
 
-## 💻 Tech Stack
+## 🌐 Connect with Me
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,js,nodejs,express,mysql,flutter" />
+<p align="center">
+  <a href="https://github.com/Theerthananda">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/theerthananda">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -62,9 +65,3 @@ A mobile application focused on improving user safety and emergency response.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theerthananda&layout=compact&theme=radical" />
 </p>
-
----
-
-## ⚡ Fun Fact
-
-🚀 I love turning ideas into real-world applications and continuously improving my coding skills.
