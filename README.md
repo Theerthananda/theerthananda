@@ -58,26 +58,15 @@ Focused on improving **user safety and emergency response**
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Theerthananda&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Theerthananda&show_icons=true&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Theerthananda&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Theerthananda&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theerthananda&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theerthananda&layout=compact&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theerthananda&layout=compact&theme=tokyonight" />
 </p>
 
 ---
