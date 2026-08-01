@@ -48,8 +48,8 @@ I enjoy learning by building complete projects, improving them over time, and st
 - 📚 Learning software engineering best practices
 
 ---
-
-# 🛠 Tech Stack
+<center>
+  # 🛠 Tech Stack
 
 ### Languages
 
@@ -68,6 +68,8 @@ I enjoy learning by building complete projects, improving them over time, and st
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
+
+</center>
 
 ---
 
