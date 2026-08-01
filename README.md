@@ -59,7 +59,5 @@ I believe in writing clean, maintainable code and learning by building practical
 ---
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=4F8EF7&center=true&vCenter=true&width=900&lines=Software+Engineer;JavaScript+Developer;Building+Real+World+Projects;Always+Learning+Something+New+🚀"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=4F8EF7&center=true&vCenter=true&width=900&lines=Software+Engineer;JavaScript+Developer;Building+Production+Projects;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
