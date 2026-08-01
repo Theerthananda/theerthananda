@@ -61,3 +61,61 @@ I believe in writing clean, maintainable code and learning by building practical
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=4F8EF7&center=true&vCenter=true&width=900&lines=Software+Engineer;JavaScript+Developer;Building+Production+Projects;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+
+<!-- ====================================================== -->
+<!--                  CURRENT FOCUS                         -->
+<!-- ====================================================== -->
+
+## 🎯 Current Focus
+
+```text
+💻 Mastering JavaScript
+
+🏗️ Building Production-Level Projects
+
+🧠 Strengthening Problem Solving
+
+📚 Learning Software Engineering Principles
+
+🚀 Growing One Project at a Time
+
+
+---
+
+# 💡 Developer Principles
+
+This is something **99% of GitHub profiles don't have.**
+
+```md
+<!-- ====================================================== -->
+<!--               DEVELOPER PRINCIPLES                     -->
+<!-- ====================================================== -->
+
+## 💡 Developer Principles
+
+✔ Build before consuming tutorials
+
+✔ Understand concepts instead of memorizing syntax
+
+✔ Write clean, maintainable code
+
+✔ Keep improving every single day
+
+✔ Quality over quantity
+
+<!-- ====================================================== -->
+<!--                  QUICK FACTS                           -->
+<!-- ====================================================== -->
+
+## 🌍 Quick Facts
+
+| | |
+|:---|:---|
+| 💼 **Role** | Software Engineering Student |
+| 🌍 **Location** | Karnataka, India |
+| 💻 **Primary Language** | JavaScript |
+| 🎯 **Current Goal** | Become a Professional Software Engineer |
+| 🚀 **Portfolio** | https://theerthananda.github.io |
+
+
+
