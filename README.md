@@ -40,6 +40,22 @@ Building software that solves real-world problems through clean code, continuous
 
 </p>
 
+<!-- ====================================================== -->
+<!--                     ABOUT ME                           -->
+<!-- ====================================================== -->
+
+## 👨‍💻 About Me
+
+I'm **Theerthananda Gowda**, a Computer Science student and aspiring Software Engineer from India.
+
+I enjoy building software that solves real-world problems while continuously improving my programming, problem-solving, and software engineering skills.
+
+My current focus is mastering **JavaScript** and developing production-quality projects that strengthen my foundation before moving into backend development.
+
+I believe in writing clean, maintainable code and learning by building practical applications rather than simply following tutorials.
+
+> **"Consistency is my biggest investment. Every project I build is one step closer to becoming the engineer I aspire to be."**
+
 ---
 
 <p align="center">
