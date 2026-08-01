@@ -1,121 +1,91 @@
-<!-- ====================================================== -->
-<!--                     HERO SECTION                       -->
-<!-- ====================================================== -->
-
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#4F8EF7;">Theerthananda Gowda</span>
-</h1>
-
-<h3 align="center">
-Software Engineer • JavaScript Developer • Problem Solver
-</h3>
+<h1 align="center">Theerthananda Gowda</h1>
 
 <p align="center">
-Building software that solves real-world problems through clean code, continuous learning, and consistency.
+Software Engineer • JavaScript Developer
 </p>
 
 <p align="center">
-
-<a href="https://theerthananda.github.io">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-2563EB?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Theerthananda">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/theerthananda">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:theerthanandagowda@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+Building practical software with clean code, strong fundamentals, and continuous learning.
 </p>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Theerthananda&style=for-the-badge&color=blue"/>
-
+<a href="https://theerthananda.github.io">Portfolio</a> •
+<a href="https://github.com/Theerthananda">GitHub</a> •
+<a href="https://linkedin.com/in/theerthananda">LinkedIn</a> •
+<a href="mailto:theerthanandagowda@gmail.com">Email</a>
 </p>
-
-<!-- ====================================================== -->
-<!--                     ABOUT ME                           -->
-<!-- ====================================================== -->
-
-## 👨‍💻 About Me
-
-I'm **Theerthananda Gowda**, a Computer Science student and aspiring Software Engineer from India.
-
-I enjoy building software that solves real-world problems while continuously improving my programming, problem-solving, and software engineering skills.
-
-My current focus is mastering **JavaScript** and developing production-quality projects that strengthen my foundation before moving into backend development.
-
-I believe in writing clean, maintainable code and learning by building practical applications rather than simply following tutorials.
-
-> **"Consistency is my biggest investment. Every project I build is one step closer to becoming the engineer I aspire to be."**
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=4F8EF7&center=true&vCenter=true&width=900&lines=Software+Engineer;JavaScript+Developer;Building+Production+Projects;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+## About
 
-<!-- ====================================================== -->
-<!--                  CURRENT FOCUS                         -->
-<!-- ====================================================== -->
+I'm **Theerthananda Gowda**, a Computer Science student from India with a strong interest in software engineering.
 
-## 🎯 Current Focus
-
-```text
-💻 Mastering JavaScript
-
-🏗️ Building Production-Level Projects
-
-🧠 Strengthening Problem Solving
-
-📚 Learning Software Engineering Principles
-
-🚀 Growing One Project at a Time
-
+I enjoy building practical applications, improving my problem-solving skills, and writing clean, maintainable code. My current focus is mastering JavaScript while creating production-quality projects that strengthen my software development foundation.
 
 ---
 
-# 💡 Developer Principles
+## Projects
 
-This is something **99% of GitHub profiles don't have.**
+### 🌐 Portfolio Website
+Modern personal portfolio showcasing my projects, certifications, skills, and experience.
 
-```md
-<!-- ====================================================== -->
-<!--               DEVELOPER PRINCIPLES                     -->
-<!-- ====================================================== -->
+**Tech:** HTML • CSS • JavaScript • Vite
 
-## 💡 Developer Principles
+---
 
-✔ Build before consuming tutorials
+### 🏫 EduSync ERP
+A college ERP system designed with a scalable architecture, role-based access, and a clean user experience.
 
-✔ Understand concepts instead of memorizing syntax
+**Tech:** HTML • CSS • JavaScript
 
-✔ Write clean, maintainable code
+---
 
-✔ Keep improving every single day
+### 📌 Smart Leads Tracker
+A Chrome Extension for saving and organizing websites with search, sorting, import/export, duplicate detection, and local storage.
 
-✔ Quality over quantity
+**Tech:** JavaScript • HTML • CSS • Chrome Extension API
 
-<!-- ====================================================== -->
-<!--                  QUICK FACTS                           -->
-<!-- ====================================================== -->
+---
 
-## 🌍 Quick Facts
+## Tech Stack
 
-| | |
-|:---|:---|
-| 💼 **Role** | Software Engineering Student |
-| 🌍 **Location** | Karnataka, India |
-| 💻 **Primary Language** | JavaScript |
-| 🎯 **Current Goal** | Become a Professional Software Engineer |
-| 🚀 **Portfolio** | https://theerthananda.github.io |
+**Languages**
 
+- JavaScript
+- Java
+- C
+- HTML5
+- CSS3
 
+**Database**
 
+- MySQL
+
+**Tools**
+
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+## Current Focus
+
+- Master JavaScript
+- Build production-quality projects
+- Improve problem-solving skills
+- Learn software engineering best practices
+
+---
+
+## Connect
+
+- 🌐 Portfolio: https://theerthananda.github.io
+- 💼 LinkedIn: https://linkedin.com/in/theerthananda
+- 📧 Email: theerthanandagowda@gmail.com
+
+---
+
+> **"Consistency builds better software and better engineers."**
