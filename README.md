@@ -1,91 +1,84 @@
-<h1 align="center">Theerthananda Gowda</h1>
-
 <p align="center">
-Software Engineer • JavaScript Developer
-</p>
 
-<p align="center">
-Building practical software with clean code, strong fundamentals, and continuous learning.
-</p>
+# 👋 Hi, I'm Theerthananda Gowda
 
-<p align="center">
-<a href="https://theerthananda.github.io">Portfolio</a> •
-<a href="https://github.com/Theerthananda">GitHub</a> •
-<a href="https://linkedin.com/in/theerthananda">LinkedIn</a> •
-<a href="mailto:theerthanandagowda@gmail.com">Email</a>
+### Software Engineer • JavaScript Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&center=true&vCenter=true&width=500&lines=Building+Real+World+Projects;Always+Learning;Clean+Code+%7C+Clean+Design" />
+
 </p>
 
 ---
 
-## About
+## 🚀 About Me
 
-I'm **Theerthananda Gowda**, a Computer Science student from India with a strong interest in software engineering.
+<img align="right" width="320" src="https://github.com/user-attachments/assets/programmer.gif"/>
 
-I enjoy building practical applications, improving my problem-solving skills, and writing clean, maintainable code. My current focus is mastering JavaScript while creating production-quality projects that strengthen my software development foundation.
+I'm a Computer Science student passionate about building practical software and continuously improving my development skills.
 
----
-
-## Projects
-
-### 🌐 Portfolio Website
-Modern personal portfolio showcasing my projects, certifications, skills, and experience.
-
-**Tech:** HTML • CSS • JavaScript • Vite
+- 💻 Focused on JavaScript
+- 🚀 Building production-quality projects
+- 🧠 Strong interest in Software Engineering
+- 🌱 Learning by building real applications
 
 ---
 
-### 🏫 EduSync ERP
-A college ERP system designed with a scalable architecture, role-based access, and a clean user experience.
+## 🛠 Tech Stack
 
-**Tech:** HTML • CSS • JavaScript
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=js,java,c,html,css,mysql,git,github,vscode,postman"/>
 
-### 📌 Smart Leads Tracker
-A Chrome Extension for saving and organizing websites with search, sorting, import/export, duplicate detection, and local storage.
-
-**Tech:** JavaScript • HTML • CSS • Chrome Extension API
+</p>
 
 ---
 
-## Tech Stack
+## 🚀 Featured Projects
 
-**Languages**
-
-- JavaScript
-- Java
-- C
-- HTML5
-- CSS3
-
-**Database**
-
-- MySQL
-
-**Tools**
-
-- Git
-- GitHub
-- VS Code
-- Postman
+| Project | Description |
+|---------|-------------|
+| 🌐 Portfolio | Personal portfolio website |
+| 🏫 EduSync ERP | College ERP System |
+| 📌 Smart Leads Tracker | Chrome Extension |
 
 ---
 
-## Current Focus
+## 📈 GitHub Analytics
 
-- Master JavaScript
-- Build production-quality projects
-- Improve problem-solving skills
-- Learn software engineering best practices
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Theerthananda&show_icons=true&theme=github_dark"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Theerthananda&theme=github-dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theerthananda&layout=compact&theme=github_dark"/>
+
+</p>
 
 ---
 
-## Connect
+## 🌍 Connect
 
-- 🌐 Portfolio: https://theerthananda.github.io
-- 💼 LinkedIn: https://linkedin.com/in/theerthananda
-- 📧 Email: theerthanandagowda@gmail.com
+<p align="center">
+
+<a href="https://theerthananda.github.io">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Theerthananda">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/theerthananda">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
 
 ---
 
-> **"Consistency builds better software and better engineers."**
+> **"Consistency builds great engineers."**
