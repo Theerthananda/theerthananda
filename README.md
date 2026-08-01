@@ -6,7 +6,8 @@
 
 Building software that solves real-world problems through clean code, curiosity, and continuous learning.
 
-<p>
+<br>
+
 <a href="https://theerthananda.github.io">
 <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-blue?style=for-the-badge"/>
 </a>
@@ -22,7 +23,8 @@ Building software that solves real-world problems through clean code, curiosity,
 <a href="mailto:theerthanandagowda@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Theerthananda&style=for-the-badge&color=0e75b6"/>
 
@@ -32,22 +34,22 @@ Building software that solves real-world problems through clean code, curiosity,
 
 # 👨‍💻 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-I'm a Computer Science student from **India** who enjoys building practical software and solving real-world problems.
+I'm **Theerthananda Gowda**, a Computer Science student from India passionate about building practical software and solving real-world problems.
 
-Instead of collecting tutorials, I prefer learning by creating complete projects and improving them step by step.
+I enjoy learning by building complete projects, improving them over time, and strengthening my software engineering fundamentals.
 
 ### Current Focus
 
 - 💻 Mastering JavaScript
-- 🏗️ Building production-quality projects
-- 🧠 Strengthening software engineering fundamentals
-- 🚀 Improving problem-solving skills every day
+- 🚀 Building production-quality projects
+- 🧠 Improving problem-solving skills
+- 📚 Learning software engineering best practices
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
@@ -71,38 +73,21 @@ Instead of collecting tutorials, I prefer learning by creating complete projects
 
 # 🚀 Featured Projects
 
-| Project | Description | Tech |
-|----------|-------------|------|
-| 🌐 **Portfolio Website** | Personal portfolio showcasing projects, certifications, and skills. | HTML • CSS • JavaScript • Vite |
-| 🏫 **EduSync ERP** | College ERP with authentication, dashboards, and role-based architecture. | HTML • CSS • JavaScript |
-| 📌 **Smart Leads Tracker** | Chrome Extension to save, organize, and manage website links. | JavaScript • Chrome API |
-| 🃏 **Blackjack Game** | Browser-based Blackjack game built to practice JavaScript fundamentals and game logic. | HTML • CSS • JavaScript |
+| Project | Description |
+|---------|-------------|
+| 🌐 **Portfolio Website** | Personal portfolio showcasing projects, certifications, and skills. |
+| 🏫 **EduSync ERP** | Professional College ERP System with role-based architecture. |
+| 📌 **Smart Leads Tracker** | Chrome Extension for saving and organizing website links. |
+| 🃏 **Blackjack Game** | Browser-based Blackjack game built with Vanilla JavaScript. |
 
 ---
 
-# 📊 GitHub Analytics
+# 📌 What I'm Working On
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Theerthananda&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Theerthananda&theme=github-dark&hide_border=true"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theerthananda&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🎯 Current Goals
-
-- ✅ Master JavaScript
-- 🔄 Build high-quality software projects
-- 📚 Learn backend development
-- 🤝 Contribute to open source
-- 💼 Become a professional software engineer
+- ✅ Mastering JavaScript
+- 🚀 Building real-world projects
+- 💡 Writing clean and maintainable code
+- 📚 Strengthening software engineering fundamentals
 
 ---
 
@@ -111,7 +96,7 @@ Instead of collecting tutorials, I prefer learning by creating complete projects
 <p align="center">
 
 <a href="https://theerthananda.github.io">
-<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Theerthananda">
@@ -128,8 +113,10 @@ Instead of collecting tutorials, I prefer learning by creating complete projects
 
 <div align="center">
 
+### 💬 Philosophy
+
 > **"Consistency builds better software and better engineers."**
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile.
 
 </div>
